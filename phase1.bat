@@ -1,0 +1,13 @@
+main 0.1 0.2 >> output.txt
+main 0.1 0.25 >> output.txt
+main 0.1 0.3 >> output.txt
+main 0.1 0.35 >> output.txt
+main 0.1 0.4 >> output.txt
+main 0.1 0.45 >> output.txt
+main 0.1 0.5 >> output.txt
+main 0.1 0.55 >> output.txt
+main 0.1 0.6 >> output.txt
+main 0.1 0.65 >> output.txt
+main 0.1 0.7 >> output.txt
+main 0.1 0.75 >> output.txt
+main 0.1 0.8 >> output.txt

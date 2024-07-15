@@ -1,0 +1,1 @@
+gcc main.c rngs.c -lm -o main
